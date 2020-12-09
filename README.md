@@ -10,7 +10,7 @@ In this project, you will **write unit tests and the implementation code** for a
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
+- [ ] Create a forked copy of this project. done
 - [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
@@ -59,4 +59,4 @@ This section is **optional** and not counted towards MVP. Start working on it af
 
 Follow these steps for completing your project.
 
-- [ ] Submit a pull request to merge `<firstName-lastName>` Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [ ] Submit a pull request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
